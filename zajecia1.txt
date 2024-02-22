@@ -1,0 +1,7 @@
+who am i (kim ja jestem) - informacje o mnie na serwerze
+who - informacje o wszyskich kontach na serwerze
+pwd - w jakim katalogu się znajdujemy
+ls -l - pokaż co mam w katalogu domowym, ale w z większą liczbą informacji
+man (manual) - instrukcje do danego polecenia
+ls / - informacje na temat katalogu głównego (jednak wyświetlają się też pliki specjalne
+(ls /dev) - wyświetla pliki specjalne w kadalogu dev
